@@ -4,5 +4,6 @@ My personal blog using issues and GitHub Actions
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [Hi, Github](https://github.com/wangsp1412/wsp-blog/issues/3)--2021-10-16
 - [立一个Flag](https://github.com/wangsp1412/wsp-blog/issues/2)--2021-09-30
 - [王帅鹏的博客](https://github.com/wangsp1412/wsp-blog/issues/1)--2021-09-29
